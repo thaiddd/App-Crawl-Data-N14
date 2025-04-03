@@ -1,0 +1,6 @@
+beautifulSoup4 
+Selenium 
+Pillow
+requests 
+lxml 
+tqdm
